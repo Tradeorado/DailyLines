@@ -30,6 +30,7 @@
 #property description "Vortag: VTH (Hoch), VTT (Tief), VTC (Close), VTO (Open)."
 #property description "Heute: O (Eröffnung), TH (laufendes Hoch), TT (laufendes Tief)."
 #property description "Session-Zeiten und Farben sind einstellbar."
+#property description "Weitere Indikatoren: https://tradeorado.de/indikatoren/"
 #property version     "1.00"
 #property indicator_chart_window
 #property indicator_plots 0
